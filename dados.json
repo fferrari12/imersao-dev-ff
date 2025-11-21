@@ -1,0 +1,52 @@
+[
+    {
+        "Nome": "JavaScript",
+        "Descrição": "JavaScript é uma linguagem de programação leve, interpretada e orientada a objetos, amplamente usada para criar páginas web interativas.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+        "Nome": "Python",
+        "Descrição": "Python é uma linguagem de alto nível, de fácil leitura e muito utilizada em ciência de dados, automação, web e IA.",
+        "Link": "https://www.python.org/doc/"
+    },
+    {
+        "Nome": "Java",
+        "Descrição": "Java é uma linguagem orientada a objetos, com forte tipagem e uso extensivo em aplicações corporativas e Android.",
+        "Link": "https://docs.oracle.com/en/java/"
+    },
+    {
+        "Nome": "C#",
+        "Descrição": "C# é uma linguagem da Microsoft usada para desenvolvimento de aplicações desktop, web e jogos (Unity), com sintaxe moderna e orientação a objetos.",
+        "Link": "https://learn.microsoft.com/dotnet/csharp/"
+    },
+    {
+        "Nome": "Ruby",
+        "Descrição": "Ruby é uma linguagem dinâmica e elegante, conhecida pela produtividade com frameworks como Rails para desenvolvimento web.",
+        "Link": "https://www.ruby-lang.org/pt/"
+    },
+    {
+        "Nome": "Go",
+        "Descrição": "Go (Golang) é uma linguagem compilada, concisa e de alto desempenho, ideal para serviços de rede e infraestrutura.",
+        "Link": "https://go.dev/doc/"
+    },
+    {
+        "Nome": "Rust",
+        "Descrição": "Rust é focada em segurança de memória e desempenho, popular em sistemas e desenvolvimento de software de baixo nível.",
+        "Link": "https://www.rust-lang.org/learn"
+    },
+    {
+        "Nome": "TypeScript",
+        "Descrição": "TypeScript é um superset do JavaScript que adiciona tipagem estática opcional, melhorando manutenibilidade em projetos grandes.",
+        "Link": "https://www.typescriptlang.org/docs/"
+    },
+    {
+        "Nome": "PHP",
+        "Descrição": "PHP é uma linguagem de script voltada para desenvolvimento web server-side, usada em muitos CMSs e aplicações web.",
+        "Link": "https://www.php.net/manual/pt_BR/"
+    },
+    {
+        "Nome": "C++",
+        "Descrição": "C++ é uma linguagem de propósito geral com foco em desempenho e controle de recursos, muito usada em jogos, sistemas e aplicações de alto desempenho.",
+        "Link": "https://en.cppreference.com/w/"
+    }
+]
